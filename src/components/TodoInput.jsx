@@ -43,7 +43,7 @@ export default TodoInput;
 
 
 
-// method 2
+// this is method 2
 // import React, { useState } from 'react';
 
 // const TodoInput = ({addItem})=> {
